@@ -1,0 +1,71 @@
+﻿  pdp-app.c
+D:\Code\VS\experiment\provable-data-possession-master\pdp-app.c(46,17): warning C4013: “write_excel”未定义；假设外部返回 int
+D:\Code\VS\experiment\provable-data-possession-master\pdp-app.c(56,26): warning C4090: “=”: 不同的“const”限定符
+D:\Code\VS\experiment\provable-data-possession-master\pdp-app.c(57,26): warning C4090: “=”: 不同的“const”限定符
+D:\Code\VS\experiment\provable-data-possession-master\pdp-app.c(58,26): warning C4090: “=”: 不同的“const”限定符
+D:\Code\VS\experiment\provable-data-possession-master\pdp-app.c(59,26): warning C4090: “=”: 不同的“const”限定符
+D:\Code\VS\experiment\provable-data-possession-master\pdp-app.c(60,26): warning C4090: “=”: 不同的“const”限定符
+D:\Code\VS\experiment\provable-data-possession-master\pdp-app.c(61,32): warning C4090: “=”: 不同的“const”限定符
+D:\Code\VS\experiment\provable-data-possession-master\pdp-app.c(62,32): warning C4090: “=”: 不同的“const”限定符
+D:\Code\VS\experiment\provable-data-possession-master\pdp-app.c(63,32): warning C4090: “=”: 不同的“const”限定符
+D:\Code\VS\experiment\provable-data-possession-master\pdp-app.c(222,17): warning C4013: “process_data”未定义；假设外部返回 int
+  pdp-core.c
+D:\Code\VS\experiment\provable-data-possession-master\pdp-core.c(50,38): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Code\VS\experiment\provable-data-possession-master\pdp-core.c(19,1): warning C4090: “初始化”: 不同的“const”限定符
+D:\Code\VS\experiment\provable-data-possession-master\pdp-core.c(20,1): warning C4090: “初始化”: 不同的“const”限定符
+D:\Code\VS\experiment\provable-data-possession-master\pdp-core.c(21,1): warning C4090: “初始化”: 不同的“const”限定符
+D:\Code\VS\experiment\provable-data-possession-master\pdp-core.c(22,1): warning C4090: “初始化”: 不同的“const”限定符
+D:\Code\VS\experiment\provable-data-possession-master\pdp-core.c(99,1): warning C4090: “初始化”: 不同的“const”限定符
+D:\Code\VS\experiment\provable-data-possession-master\pdp-core.c(100,1): warning C4090: “初始化”: 不同的“const”限定符
+D:\Code\VS\experiment\provable-data-possession-master\pdp-core.c(101,1): warning C4090: “初始化”: 不同的“const”限定符
+D:\Code\VS\experiment\provable-data-possession-master\pdp-core.c(102,1): warning C4090: “初始化”: 不同的“const”限定符
+D:\Code\VS\experiment\provable-data-possession-master\pdp-core.c(191,32): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Code\VS\experiment\provable-data-possession-master\pdp-core.c(176,1): warning C4090: “初始化”: 不同的“const”限定符
+D:\Code\VS\experiment\provable-data-possession-master\pdp-core.c(177,1): warning C4090: “初始化”: 不同的“const”限定符
+D:\Code\VS\experiment\provable-data-possession-master\pdp-core.c(178,1): warning C4090: “初始化”: 不同的“const”限定符
+D:\Code\VS\experiment\provable-data-possession-master\pdp-core.c(179,1): warning C4090: “初始化”: 不同的“const”限定符
+D:\Code\VS\experiment\provable-data-possession-master\pdp-core.c(259,1): warning C4090: “初始化”: 不同的“const”限定符
+D:\Code\VS\experiment\provable-data-possession-master\pdp-core.c(260,1): warning C4090: “初始化”: 不同的“const”限定符
+D:\Code\VS\experiment\provable-data-possession-master\pdp-core.c(261,1): warning C4090: “初始化”: 不同的“const”限定符
+D:\Code\VS\experiment\provable-data-possession-master\pdp-core.c(262,1): warning C4090: “初始化”: 不同的“const”限定符
+D:\Code\VS\experiment\provable-data-possession-master\pdp-core.c(310,1): warning C4090: “初始化”: 不同的“const”限定符
+D:\Code\VS\experiment\provable-data-possession-master\pdp-core.c(311,1): warning C4090: “初始化”: 不同的“const”限定符
+  pdp-file.c
+D:\Code\VS\experiment\provable-data-possession-master\pdp-file.c(63,15): warning C4018: “<”: 有符号/无符号不匹配
+D:\Code\VS\experiment\provable-data-possession-master\pdp-file.c(66,54): warning C4267: “函数”: 从“size_t”转换到“long”，可能丢失数据
+D:\Code\VS\experiment\provable-data-possession-master\pdp-file.c(68,37): warning C4267: “函数”: 从“size_t”转换到“long”，可能丢失数据
+D:\Code\VS\experiment\provable-data-possession-master\pdp-file.c(79,29): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Code\VS\experiment\provable-data-possession-master\pdp-file.c(159,5): warning C4102: “exit”: 未引用的标签
+D:\Code\VS\experiment\provable-data-possession-master\pdp-file.c(243,15): warning C4018: “<”: 有符号/无符号不匹配
+D:\Code\VS\experiment\provable-data-possession-master\pdp-file.c(351,15): warning C4018: “<”: 有符号/无符号不匹配
+  pdp-keys.c
+D:\Code\VS\experiment\provable-data-possession-master\pdp-keys.c(46,18): warning C4267: “=”: 从“size_t”转换到“unsigned int”，可能丢失数据
+D:\Code\VS\experiment\provable-data-possession-master\pdp-keys.c(53,42): warning C4267: “函数”: 从“size_t”转换到“const int”，可能丢失数据
+D:\Code\VS\experiment\provable-data-possession-master\pdp-keys.c(127,25): warning C4267: “=”: 从“size_t”转换到“unsigned int”，可能丢失数据
+D:\Code\VS\experiment\provable-data-possession-master\pdp-keys.c(133,42): warning C4267: “函数”: 从“size_t”转换到“const int”，可能丢失数据
+D:\Code\VS\experiment\provable-data-possession-master\pdp-keys.c(201,19): warning C4013: “htonl”未定义；假设外部返回 int
+D:\Code\VS\experiment\provable-data-possession-master\pdp-keys.c(206,41): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Code\VS\experiment\provable-data-possession-master\pdp-keys.c(213,42): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Code\VS\experiment\provable-data-possession-master\pdp-keys.c(247,34): warning C4267: “=”: 从“size_t”转换到“unsigned int”，可能丢失数据
+D:\Code\VS\experiment\provable-data-possession-master\pdp-keys.c(251,46): warning C4267: “=”: 从“size_t”转换到“unsigned int”，可能丢失数据
+D:\Code\VS\experiment\provable-data-possession-master\pdp-keys.c(255,15): warning C4018: “<”: 有符号/无符号不匹配
+D:\Code\VS\experiment\provable-data-possession-master\pdp-keys.c(332,26): warning C4090: “=”: 不同的“const”限定符
+D:\Code\VS\experiment\provable-data-possession-master\pdp-keys.c(333,26): warning C4090: “=”: 不同的“const”限定符
+D:\Code\VS\experiment\provable-data-possession-master\pdp-keys.c(334,26): warning C4090: “=”: 不同的“const”限定符
+D:\Code\VS\experiment\provable-data-possession-master\pdp-keys.c(335,26): warning C4090: “=”: 不同的“const”限定符
+D:\Code\VS\experiment\provable-data-possession-master\pdp-keys.c(336,26): warning C4090: “=”: 不同的“const”限定符
+D:\Code\VS\experiment\provable-data-possession-master\pdp-keys.c(337,32): warning C4090: “=”: 不同的“const”限定符
+D:\Code\VS\experiment\provable-data-possession-master\pdp-keys.c(338,32): warning C4090: “=”: 不同的“const”限定符
+D:\Code\VS\experiment\provable-data-possession-master\pdp-keys.c(339,32): warning C4090: “=”: 不同的“const”限定符
+D:\Code\VS\experiment\provable-data-possession-master\pdp-keys.c(351,71): warning C4020: “BN_generate_prime_ex”: 实参太多
+D:\Code\VS\experiment\provable-data-possession-master\pdp-keys.c(352,50): warning C4133: “函数”: 从“BN_CTX *”到“BN_GENCB *”的类型不兼容
+D:\Code\VS\experiment\provable-data-possession-master\pdp-keys.c(352,52): warning C4020: “BN_is_prime_ex”: 实参太多
+D:\Code\VS\experiment\provable-data-possession-master\pdp-keys.c(353,71): warning C4020: “BN_generate_prime_ex”: 实参太多
+D:\Code\VS\experiment\provable-data-possession-master\pdp-keys.c(354,50): warning C4133: “函数”: 从“BN_CTX *”到“BN_GENCB *”的类型不兼容
+D:\Code\VS\experiment\provable-data-possession-master\pdp-keys.c(354,52): warning C4020: “BN_is_prime_ex”: 实参太多
+  pdp-misc.c
+D:\Code\VS\experiment\provable-data-possession-master\pdp-misc.c(73,15): warning C4018: “<”: 有符号/无符号不匹配
+D:\Code\VS\experiment\provable-data-possession-master\pdp-misc.c(73,47): warning C4018: “<”: 有符号/无符号不匹配
+D:\Code\VS\experiment\provable-data-possession-master\pdp-misc.c(225,1): warning C4090: “初始化”: 不同的“const”限定符
+  正在生成代码...
+  PDP.vcxproj -> D:\Code\VS\experiment\PDP\x64\Debug\PDP.exe
